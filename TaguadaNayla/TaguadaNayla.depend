@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1475884696 source:d:\taguadanayla\lib.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1475885869 d:\taguadanayla\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1475884973 source:d:\taguadanayla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
