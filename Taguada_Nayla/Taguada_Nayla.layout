@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\mas d 1 activo\lib.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13893" topLine="265" />
+		</Cursor>
+		<Folding>
+			<Collapse line="149" />
+			<Collapse line="163" />
+			<Collapse line="171" />
+			<Collapse line="178" />
+			<Collapse line="188" />
+			<Collapse line="267" />
+			<Collapse line="302" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1476400632 source:c:\users\alumno\desktop\parcialprogramacion-master\mas d 1 activo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1476400632 c:\users\alumno\desktop\parcialprogramacion-master\mas d 1 activo\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1476488598 source:c:\users\alumno\desktop\parcialprogramacion-master\mas d 1 activo\lib.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
